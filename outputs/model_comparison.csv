@@ -1,0 +1,4 @@
+Model,Type,Accuracy
+Random Forest,Machine Learning,95.15
+Deep Learning Neural Network,Deep Learning,76.7
+HuggingFace DistilBERT,Transfer Learning,Inference Only
